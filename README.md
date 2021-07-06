@@ -1,8 +1,5 @@
 ### Hi there, I'm Felix - aka [efenstakes][website] 👋
 
-[![Website](https://miportflio.web.app)](https://miportflio.web.app/)]
-[![LinkedIn Follow](https://www.linkedin.com/in/felix-ndunda-0ba841108/)]
-
 ## I'm a Software Engineer and UI/UX DEsigner
 
 - 🔭 I'm working on open source projects 
@@ -46,6 +43,6 @@
 
 </details>
 
-[website]: https://www.linkedin.com/in/felix-ndunda-0ba841108/
+[website]: https://miportflio.web.app/
 [linkedin]: https://www.linkedin.com/in/felix-ndunda-0ba841108/
 
