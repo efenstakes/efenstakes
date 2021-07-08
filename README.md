@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=efenstakes&show_icons=true&hide_border=true" />
+  <img align="left" alt="EfenStakes GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=efenstakes&show_icons=true&hide_border=true" />
 
 </details>
 
