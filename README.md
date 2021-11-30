@@ -3,7 +3,7 @@
 ## I'm a Software Engineer and UI/UX DEsigner
 
 - 🔭 I'm working on block chain, mobile & design
-- 🌱 I’m currently working in a startup 🤣
+- 🌱 I’m currently working in a startup
 - ⚡ Fun fact: I love Design and Music
 
 
