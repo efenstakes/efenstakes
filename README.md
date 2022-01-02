@@ -2,9 +2,16 @@
 
 ## I'm a Software Engineer and UI/UX DEsigner
 
-- 🔭 I'm working on block chain, mobile & design
+- 🔭 Mobile App Development - Flutter, React Native, Swift
+- 🔭 Frontend Development - React, TypeScript, Ionic
+- 🔭 Backend - NodeJs, Python
+- 🔭 DevOps and Hosting - Docker, AWS, Firebase, Google Cloud Platform
+
+
+- 🌱 I'm working on block chain, mobile & design
 - 🌱 I’m currently working in a startup
 - ⚡ Fun fact: I love Design and Music
+- ⚡ I build indie games when I'm free - (Godot Game Engine)
 
 
 ### Connect with me:
