@@ -8,6 +8,9 @@
 - 🔭 DevOps and Hosting - Docker, AWS, Firebase, Google Cloud Platform
 
 
+
+## I'm also human
+
 - 🌱 I'm working on block chain, mobile & design
 - 🌱 I’m currently working in a startup
 - ⚡ Fun fact: I love Design and Music
