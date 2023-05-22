@@ -1,12 +1,13 @@
 ### Hi there, I'm Felix - aka [efenstakes][website] 👋
 
-## I'm a Software Engineer and UI/UX DEsigner
+## I'm a Software Engineer and Hobbyist Game Developer
 
 - 🔭 Mobile App Development - Flutter, React Native, Swift
-- 🔭 Frontend Development - React, TypeScript, Ionic
-- 🔭 Backend - NodeJs, Python
+- 🔭 Frontend Development - React, NextJS, TypeScript, JavaScript, Ionic
+- 🔭 WebGL - ThreeJS, BabylonJS
+- 🔭 Backend - NodeJs, Python, Elixir
 - 🔭 DevOps and Hosting - Docker, AWS, Firebase, Google Cloud Platform
-
+- 🔭 Games - Godot Engine, BabylonJS, ThreeJS
 
 
 ## I'm also human
